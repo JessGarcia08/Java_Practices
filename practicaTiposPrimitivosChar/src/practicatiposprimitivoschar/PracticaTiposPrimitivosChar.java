@@ -30,6 +30,8 @@ public class PracticaTiposPrimitivosChar {
 
         int letra = 'a';
         System.out.println("letra = " + letra);
+        
+        
 
     }
 

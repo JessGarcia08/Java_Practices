@@ -18,6 +18,8 @@ public class PracticaBoolean {
             System.out.println("Eres mayor de edad");
         } else {
             System.out.println("eres menor de edad");
+            
+            
         }
     }
 
