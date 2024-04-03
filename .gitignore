@@ -21,14 +21,24 @@
 /Igualdad&Relacionales/nbproject/private/
 
 # Ignorar archivos compilados y generados
-
+/build/
 /operadorTernario/build/
 /precedenciaDeOperadores/build/
 /operadores_Condicionales/build/
 /Igualdad&Relacionales/build/
 
 /dist/
+/operadorTernario/dist/
+/precedenciaDeOperadores/dist/
+/operadores_Condicionales/dist/
+/Igualdad&Relacionales/dist/
+
 /target/
+/operadorTernario/target/
+/precedenciaDeOperadores/target/
+/operadores_Condicionales/target/
+/Igualdad&Relacionales/target/
+
 
 # Ignorar archivos de dependencias de Maven
 *.jar
