@@ -1,9 +1,36 @@
-<<<<<<< HEAD
+# Ignorar archivos generados por el IDE de NetBeans
+/operadorTernario/nbproject/private/
+/operadorTernario/nbproject/build/
+/operadorTernario/nbproject/properties/
 
+/precedenciaDeOperadores/nbproject/private/
+/precedenciaDeOperadores/nbproject/build/
+/precedenciaDeOperadores/nbproject/properties/
+
+/operadores_Condicionales/nbproject/private/
+/operadores_Condicionales/nbproject/build/
+/operadores_Condicionales/nbproject/properties/
+
+/Igualdad&Relacionales/nbproject/private/
+/Igualdad&Relacionales/nbproject/build/
+/Igualdad&Relacionales/nbproject/properties/
+# Ignorar archivos de configuración específicos del usuario de NetBeans
 /operadorTernario/nbproject/private/
 /precedenciaDeOperadores/nbproject/private/
-=======
 /operadores_Condicionales/nbproject/private/
-/operadores_Condicionales/build/
 /Igualdad&Relacionales/nbproject/private/
->>>>>>> igualdad_Rrelacionales
+
+# Ignorar archivos compilados y generados
+
+/operadorTernario/build/
+/precedenciaDeOperadores/build/
+/operadores_Condicionales/build/
+/Igualdad&Relacionales/build/
+
+/dist/
+/target/
+
+# Ignorar archivos de dependencias de Maven
+*.jar
+*.war
+*.ear
