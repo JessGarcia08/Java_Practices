@@ -44,3 +44,5 @@
 *.jar
 *.war
 *.ear
+/precedenciaOperadores/nbproject/private/
+/precedenciaOperadores/build/

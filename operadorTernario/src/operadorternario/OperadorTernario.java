@@ -1,42 +1,18 @@
-
 package operadorternario;
 
-/**
- *
- * @author Missa
- */
 public class OperadorTernario {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
-    }
-   
-   
-public class Operadores_Condicionales {
-
-    public static void main(String[] args) {
-        var a = 8;
-        var valorMinimo = 0;
-        var valorMaximo = 10;
-
-        var resultado = a >= 0 && a <= 10;
-        if (resultado) {
-            System.out.println("dentro del rango");
-        } else {
-            System.out.println("Fuera de rango");
-        }
+       var  resultado = (1 > 2) ? "verdadero" : "falso";
+        System.out.println("resultado = " + resultado);
+       /*
+        en el operador ternario se recomienda utilizar solamente en expresiones 
+        sencillas, si son expresiones mas complejas se recomienda utiizar 
+        otro tio de estructuras como if, else
+        */
+       var numero = 9;
+       resultado = (numero % 2 == 0) ? "numero par" : "numero inpar";
+        System.out.println("resultado = " + resultado);
         
-        var vacaciones = false;
-        var diaDescanso = false;
-        if (vacaciones || diaDescanso){
-            System.out.println("el padre puede asistir al juego");
-              } else {
-            System.out.println("el padre esta ocupado");
-        }
     }
-
-}
 }
