@@ -1,15 +1,19 @@
 package practicatiposprimitivoschar;
-
+//15 programa
 public class PracticaTiposPrimitivosChar {
 
     public static void main(String[] args) {
 
+        //imprime el caracteres de unicode 
+        //los caracteres se imprimen con comilla simple
+        
         char miCaracter = 'a';
         System.out.println("miCaracter = " + miCaracter);
-
+        
         char varChar = '\u0021';
         System.out.println("varChar = " + varChar);
-
+        
+        //
         char varCharDecimal = 33;
         System.out.println("varCharDecimal = " + varCharDecimal);
 

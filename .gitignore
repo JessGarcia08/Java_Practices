@@ -46,3 +46,16 @@
 *.ear
 /precedenciaOperadores/nbproject/private/
 /precedenciaOperadores/build/
+/tiposPrimitivos/nbproject/private/
+/4variablesEnJava/nbproject/private/
+/4variablesEnJava/build/
+/variablesEnJava/nbproject/private/
+/variablesEnJava/build/
+/tipos_String/nbproject/private/
+/inferencia_en_java/nbproject/private/
+/caracteres_Especiales/nbproject/private/
+/caracteres_Especiales/build/
+/tiposPrimitivos/build/
+/OperadoresDeAsignacion/nbproject/private/
+/operadores_de_Asignacion/nbproject/private/
+/operadores_de_Asignacion/build/
