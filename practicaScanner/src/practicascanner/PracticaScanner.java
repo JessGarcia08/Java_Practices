@@ -9,7 +9,7 @@ public class PracticaScanner {
         var usuario = consola.nextLine();//nextLine(): lee linea completa de la consola
         System.out.println("usuario = " + usuario);//ya ingresado informacion se asigna a nuestro usuario
         System.out.println("Escribe el titulo:");
-        var titulo = consola.nextLine();
+        var titulo = consola.nextLine();//lee la informacion de la consola, los datos ingresados
         System.out.println("Resultado: " + titulo + " " + usuario);//concatenacion de ambas variables
     }
 
