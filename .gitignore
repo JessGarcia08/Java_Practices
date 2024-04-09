@@ -14,11 +14,16 @@
 /Igualdad&Relacionales/nbproject/private/
 /Igualdad&Relacionales/nbproject/build/
 /Igualdad&Relacionales/nbproject/properties/
+
+/precedenciaOperadores/nbproject/private/
+/precedenciaOperadores/nbproject/build/
+/precedenciaOperadores/nbproject/properties/
 # Ignorar archivos de configuración específicos del usuario de NetBeans
 /operadorTernario/nbproject/private/
 /precedenciaDeOperadores/nbproject/private/
 /operadores_Condicionales/nbproject/private/
 /Igualdad&Relacionales/nbproject/private/
+/precedenciaOperadores/nbproject/private/
 
 # Ignorar archivos compilados y generados
 /build/
@@ -26,23 +31,25 @@
 /precedenciaDeOperadores/build/
 /operadores_Condicionales/build/
 /Igualdad&Relacionales/build/
+/precedenciaOperadores/nbproject/build/
 
 /dist/
 /operadorTernario/dist/
 /precedenciaDeOperadores/dist/
 /operadores_Condicionales/dist/
 /Igualdad&Relacionales/dist/
+/precedenciaOperadores/nbproject/dist/
 
 /target/
 /operadorTernario/target/
 /precedenciaDeOperadores/target/
 /operadores_Condicionales/target/
 /Igualdad&Relacionales/target/
-
+/precedenciaOperadores/nbproject/target/
 
 # Ignorar archivos de dependencias de Maven
 *.jar
 *.war
 *.ear
-/precedenciaOperadores/nbproject/private/
-/precedenciaOperadores/build/
+
+
