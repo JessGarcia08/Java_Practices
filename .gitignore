@@ -55,6 +55,23 @@
 /operadores_de_Asignacion/nbproject/build/
 /operadores_de_Asignacion/nbproject/properties/
 
+/conversion_de_Tipos/nbproject/private/
+/conversion_de_Tipos/nbproject/build/
+/conversion_de_Tipos/nbproject/properties/
+
+/cadenas_en_Java/nbproject/private/
+/cadenas_en_Java/nbproject/build/
+/cadenas_en_Java/nbproject/properties/
+
+/operadores_Unarios/nbproject/private/
+/operadores_Unarios/nbproject/build/
+/operadores_Unarios/nbproject/properties/
+
+/operdor_de_Igualdad/nbproject/private/
+/operdor_de_Igualdad/nbproject/build/
+/operdor_de_Igualdad/nbproject/properties/
+
+
 # Ignorar archivos de configuración específicos del usuario de NetBeans
 /operadorTernario/nbproject/private/
 /precedenciaDeOperadores/nbproject/private/
@@ -70,6 +87,10 @@
 /caracteres_Especiales/nbproject/private/
 /OperadoresDeAsignacion/nbproject/private/
 /operadores_de_Asignacion/nbproject/private/
+/conversion_de_Tipos/nbproject/private/
+/cadenas_en_Java/nbproject/private/
+/operadores_Unarios/nbproject/private/
+/operdor_de_Igualdad/nbproject/private/
 # Ignorar archivos compilados y generados
 /build/
 
@@ -87,6 +108,10 @@
 /caracteres_Especiales/nbproject/build/
 /OperadoresDeAsignacion/nbproject/build/
 /operadores_de_Asignacion/nbproject/build/
+/conversion_de_Tipos/nbproject/build/
+/cadenas_en_Java/nbproject/build/
+/operadores_Unarios/nbproject/build/
+/operdor_de_Igualdad/nbproject/build/
 
 /dist/
 
@@ -104,6 +129,10 @@
 /caracteres_Especiales/nbproject/dist/
 /OperadoresDeAsignacion/nbproject/dist/
 /operadores_de_Asignacion/nbproject/dist/
+/conversion_de_Tipos/nbproject/dist/
+/cadenas_en_Java/nbproject/dist/
+/operadores_Unarios/nbproject/dist/
+/operdor_de_Igualdad/nbproject/dist/
 
 /target/
 
@@ -121,11 +150,16 @@
 /caracteres_Especiales/nbproject/target/
 /OperadoresDeAsignacion/nbproject/target/
 /operadores_de_Asignacion/nbproject/target/
-
+/conversion_de_Tipos/nbproject/target/
+/cadenas_en_Java/nbproject/target/
+/operadores_Unarios/nbproject/target/
+/operdor_de_Igualdad/nbproject/dist/target/
 # Ignorar archivos de dependencias de Maven
 *.jar
 *.war
 *.ear
+
+
 
 
 
