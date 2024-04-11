@@ -16,9 +16,7 @@ public class Cadenas_en_Java {
         System.out.println(txt2.toUpperCase());   // "HELLO WORLD"
         System.out.println(txt2.toLowerCase());   // "hello world"
 
-        /*El indexOf()método devuelve el índice (la posición) de la primera aparición
-        de un texto específico en una cadena (incluidos los espacios en blanco):
-         */
+        //busca la palabra y lo hace enumerando las letras que se retorna de la primer letra que estas buscando
         String txt3 = "Please locate where 'locate' occurs!";
         System.out.println(txt3.indexOf("locate"));// Outputs 7
 
