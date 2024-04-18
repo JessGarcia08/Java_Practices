@@ -71,6 +71,18 @@
 /operdor_de_Igualdad/nbproject/build/
 /operdor_de_Igualdad/nbproject/properties/
 
+/declaraciones_de_Cambio/nbproject/private/
+/declaraciones_de_Cambio/nbproject/build/
+/declaraciones_de_Cambio/nbproject/properties/
+
+/java_if_else_elseif/nbproject/private/
+/java_if_else_elseif/nbproject/build/
+/java_if_else_elseif/nbproject/properties/
+
+/while_Loop/nbproject/private/
+/while_Loop/nbproject/build/
+/while_Loop/nbproject/properties/
+
 
 # Ignorar archivos de configuración específicos del usuario de NetBeans
 /operadorTernario/nbproject/private/
@@ -91,9 +103,13 @@
 /cadenas_en_Java/nbproject/private/
 /operadores_Unarios/nbproject/private/
 /operdor_de_Igualdad/nbproject/private/
+/declaraciones_de_Cambio/nbproject/private/
+/java_if_else_elseif/nbproject/private/
+/while_Loop/nbproject/private/
+
+
 # Ignorar archivos compilados y generados
 /build/
-
 /operadorTernario/build/
 /precedenciaDeOperadores/build/
 /operadores_Condicionales/build/
@@ -112,9 +128,11 @@
 /cadenas_en_Java/nbproject/build/
 /operadores_Unarios/nbproject/build/
 /operdor_de_Igualdad/nbproject/build/
+/declaraciones_de_Cambio/nbproject/build/
+/java_if_else_elseif/nbproject/build/
+/while_Loop/nbproject/build/
 
 /dist/
-
 /operadorTernario/dist/
 /precedenciaDeOperadores/dist/
 /operadores_Condicionales/dist/
@@ -133,9 +151,11 @@
 /cadenas_en_Java/nbproject/dist/
 /operadores_Unarios/nbproject/dist/
 /operdor_de_Igualdad/nbproject/dist/
+/declaraciones_de_Cambio/nbproject/dist/
+/java_if_else_elseif/nbproject/dist/
+/while_Loop/nbproject/dist/
 
 /target/
-
 /operadorTernario/target/
 /precedenciaDeOperadores/target/
 /operadores_Condicionales/target/
@@ -154,20 +174,11 @@
 /cadenas_en_Java/nbproject/target/
 /operadores_Unarios/nbproject/target/
 /operdor_de_Igualdad/nbproject/dist/target/
+/declaraciones_de_Cambio/nbproject/target/
+/java_if_else_elseif/nbproject/target/
+/while_Loop/nbproject/target/
+
 # Ignorar archivos de dependencias de Maven
 *.jar
 *.war
 *.ear
-
-
-
-
-
-
-/declaraciones_de_Cambio/nbproject/private/
-/declaraciones_de_Cambio/build/
-/java_if_else_elseif/nbproject/private/
-/java_if_else_elseif/build/
-/wile_loop/nbproject/private/
-/while_Loop/nbproject/private/
-/while_Loop/build/
