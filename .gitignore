@@ -71,7 +71,25 @@
 /operdor_de_Igualdad/nbproject/build/
 /operdor_de_Igualdad/nbproject/properties/
 
+/declaraciones_de_Cambio/nbproject/private/
+/declaraciones_de_Cambio/nbproject/build/
+/declaraciones_de_Cambio/nbproject/properties/
 
+/java_if_else_elseif/nbproject/private/
+/java_if_else_elseif/nbproject/build/
+/java_if_else_elseif/nbproject/properties/
+
+/wile_loop/nbproject/private/
+/wile_loop/nbproject/build/
+/wile_loop/nbproject/properties/
+
+ while_Loop/nbproject/private/
+ while_Loop/nbproject/build/
+ while_Loop/nbproject/properties/
+
+bucle_for_each/nbproject/private/
+bucle_for_each/nbproject/build/
+bucle_for_each/nbproject/properties/
 # Ignorar archivos de configuración específicos del usuario de NetBeans
 /operadorTernario/nbproject/private/
 /precedenciaDeOperadores/nbproject/private/
@@ -91,6 +109,11 @@
 /cadenas_en_Java/nbproject/private/
 /operadores_Unarios/nbproject/private/
 /operdor_de_Igualdad/nbproject/private/
+/declaraciones_de_Cambio/nbproject/private/
+/java_if_else_elseif/nbproject/private/
+/wile_loop/nbproject/private/
+while_Loop/nbproject/private/
+bucle_for_each/private/
 # Ignorar archivos compilados y generados
 /build/
 
@@ -112,7 +135,11 @@
 /cadenas_en_Java/nbproject/build/
 /operadores_Unarios/nbproject/build/
 /operdor_de_Igualdad/nbproject/build/
-
+/declaraciones_de_Cambio/nbproject/build/
+/java_if_else_elseif/nbproject/build/
+/wile_loop/nbproject/build/
+while_Loop/nbproject/build/
+bucle_for_each/build/
 /dist/
 
 /operadorTernario/dist/
@@ -133,6 +160,11 @@
 /cadenas_en_Java/nbproject/dist/
 /operadores_Unarios/nbproject/dist/
 /operdor_de_Igualdad/nbproject/dist/
+/declaraciones_de_Cambio/nbproject/dist/
+/java_if_else_elseif/nbproject/dist/
+/wile_loop/nbproject/dist/
+while_Loop/nbproject/dist/
+bucle_for_each/dist/
 
 /target/
 
@@ -154,20 +186,14 @@
 /cadenas_en_Java/nbproject/target/
 /operadores_Unarios/nbproject/target/
 /operdor_de_Igualdad/nbproject/dist/target/
+/declaraciones_de_Cambio/nbproject/target/
+/java_if_else_elseif/nbproject/target/
+/wile_loop/nbproject/target/
+while_Loop/nbproject/target/
+bucle_for_each/target/
 # Ignorar archivos de dependencias de Maven
 *.jar
 *.war
 *.ear
 
 
-
-
-
-
-/declaraciones_de_Cambio/nbproject/private/
-/declaraciones_de_Cambio/build/
-/java_if_else_elseif/nbproject/private/
-/java_if_else_elseif/build/
-/wile_loop/nbproject/private/
-/while_Loop/nbproject/private/
-/while_Loop/build/
