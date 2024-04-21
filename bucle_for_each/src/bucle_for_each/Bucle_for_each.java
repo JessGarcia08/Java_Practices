@@ -75,7 +75,7 @@ public class Bucle_for_each {
                 break; // Termina el bucle si i es igual a 7
             }
             System.out.println(x);
-        }
+        }  
     }
 
 }
