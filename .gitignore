@@ -99,9 +99,9 @@ calculo_de_switch/properties/
 /do_while/nbproject/build/
 /do_while/nbproject/properties/
 
-/clase_atributo_metodo/nbproject/private/
-/clase_atributo_metodo/nbproject/build/
-/clase_atributo_metodo/nbproject/properties/
+/ejemplos_for/nbproject/private/
+/ejemplos_for/nbproject/build/
+/ejemplos_for/nbproject/properties/
 # Ignorar archivos de configuración específicos del usuario de NetBeans
 /operadorTernario/nbproject/private/
 /precedenciaDeOperadores/nbproject/private/
@@ -127,7 +127,7 @@ while_Loop/nbproject/private/
 bucle_for_each/private/
 calculo_de_switch/private/
 /do_while/nbproject/private/
-/clase_atributo_metodo/nbproject/private/
+/ejemplos_for/nbproject/private/
 # Ignorar archivos compilados y generados
 /build/
 /operadorTernario/build/
@@ -155,7 +155,8 @@ while_Loop/nbproject/build/
 bucle_for_each/build/
 calculo_de_switch/build/
 /do_while/nbproject/build/
-/clase_atributo_metodo/nbproject/build/
+/ejemplos_for/nbproject/build/
+
 /dist/
 
 /operadorTernario/dist/
@@ -178,13 +179,12 @@ calculo_de_switch/build/
 /operdor_de_Igualdad/nbproject/dist/
 /declaraciones_de_Cambio/nbproject/dist/
 /java_if_else_elseif/nbproject/dist/
-<<<<<<< HEAD
-/wile_loop/nbproject/dist/
 while_Loop/nbproject/dist/
 bucle_for_each/dist/
 calculo_de_switch/dist/
 /do_while/nbproject/dist/
-/clase_atributo_metodo/nbproject/dist/
+/ejemplos_for/nbproject/dist/
+
 /target/
 
 /operadorTernario/target/
@@ -211,7 +211,7 @@ calculo_de_switch/dist/
 /bucle_for_each/target/
 calculo_de_switch/target/
 /do_while/nbproject/target/
-/clase_atributo_metodo/nbproject/target/
+/ejemplos_for/nbproject/target/
 # Ignorar archivos de dependencias de Maven
 *.jar
 *.war

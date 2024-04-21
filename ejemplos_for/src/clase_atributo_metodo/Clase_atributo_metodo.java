@@ -31,6 +31,6 @@ public class Clase_atributo_metodo {
             System.out.println("contador2 = " + contador2);
         }
 
-
+        
     }
 }
