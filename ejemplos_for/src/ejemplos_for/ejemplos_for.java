@@ -1,6 +1,6 @@
-package clase_atributo_metodo;
+package ejemplos_for;
 
-public class Clase_atributo_metodo {
+public class ejemplos_for {
 
     public static void main(String[] args) {
         inicio://etiqueta
