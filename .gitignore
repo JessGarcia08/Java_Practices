@@ -216,3 +216,6 @@ calculo_de_switch/target/
 *.jar
 *.war
 *.ear
+/clases_java/nbproject/private/
+/clases_java/build/
+/arrays_Java/nbproject/private/
